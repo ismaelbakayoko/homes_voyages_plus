@@ -1,0 +1,27 @@
+{
+  "name": "Homes Voyages Plus",
+  "short_name": "Homes Voyages",
+  "description": "Votre partenaire de confiance pour tous vos voyages - Assistance visa, billetterie et réservation d'hôtels",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080D35",
+  "theme_color": "#080D35",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo_blanc_home.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo_blanc_home.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["travel", "business"],
+  "lang": "fr",
+  "dir": "ltr"
+} 
